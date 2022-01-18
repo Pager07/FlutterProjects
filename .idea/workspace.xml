@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5496d3f8-0c73-4b46-8bcf-652249de125b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="23MHN1OqjxGGMauQsE920VpSjKF" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5496d3f8-0c73-4b46-8bcf-652249de125b" name="Default Changelist" comment="" />
+      <created>1641536992579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641536992579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1154" y="27" width="1402" height="1000" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1641545792226">
+      <screen x="0" y="23" width="2560" height="1008" />
+    </state>
+    <state x="1154" y="27" width="1402" height="1000" key="com.android.tools.idea.avdmanager.AvdListDialog/2560.23.1680.1027/0.23.2560.1008@0.23.2560.1008" timestamp="1641545792226" />
+    <state x="1154" y="27" width="1402" height="1000" key="com.intellij.ide.util.TipDialog" timestamp="1641537004183">
+      <screen x="0" y="23" width="2560" height="1008" />
+    </state>
+    <state x="1154" y="27" width="1402" height="1000" key="com.intellij.ide.util.TipDialog/2560.23.1680.1027/0.23.2560.1008@0.23.2560.1008" timestamp="1641537004183" />
+    <state x="242" y="243" key="run.anything.popup" timestamp="1641537920273">
+      <screen x="0" y="23" width="2560" height="1008" />
+    </state>
+    <state x="242" y="243" key="run.anything.popup/2560.23.1680.1027/0.23.2560.1008@0.23.2560.1008" timestamp="1641537920273" />
+  </component>
+</project>
